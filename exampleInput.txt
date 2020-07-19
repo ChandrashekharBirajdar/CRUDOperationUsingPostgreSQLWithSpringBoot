@@ -1,0 +1,8 @@
+Post Request 
+
+{
+	"userName" = "abc",
+	"password" ="123",
+	"email" = "abc.123@gmail.com"
+}
+
